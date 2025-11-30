@@ -1,0 +1,17 @@
+{
+  "name": "ultra-stabilite-botu",
+  "version": "1.0.0",
+  "description": "512MB RAM icin optimize edilmis savunma botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.20.0",
+    "mineflayer-pathfinder": "^2.4.0",
+    "mineflayer-auto-eat": "^4.0.0",
+    "mineflayer-pvp": "^1.3.0",
+    "minecraft-data": "^3.50.0",
+    "http": "0.0.1"
+  }
+}
